@@ -1,6 +1,6 @@
 # Mail Delivery System
 
-<img src="https://github.com/user-attachments/assets/6dd39d8a-3c51-47ad-b864-c151a2af5e75" width="400" />
+<img src="https://github.com/user-attachments/assets/6dd39d8a-3c51-47ad-b864-c151a2af5e75" width="600" />
 
 <strong>Image Source: Getty</strong>
 
