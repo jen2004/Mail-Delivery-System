@@ -15,7 +15,9 @@ For instructions on how to run this application, scroll to the bottom of this pa
 
 Here are some GIFs of the application output from the Run window:
 
-![Mail Delivery System Demo](https://github.com/jen2004/Mail-Delivery-System/raw/main/1.1.gif)
+![Mail Delivery System Demo](1.gif)
+
+![Mail Delivery System Demo](2.gif)
 
 Instructions on how to run the program in PyCharm:
 1.	Open the GitHub project in PyCharm 2024.3
