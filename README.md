@@ -13,6 +13,8 @@ For the complete project requirements, please refer to the “Task Description.p
 
 For instructions on how to run this application, scroll to the bottom of this page.
 
+![Mail Delivery System Demo](https://github.com/jen2004/Mail-Delivery-System/raw/main/1.1.gif)
+
 Here are some images of the application output from the Run window:
 
 ![1](https://github.com/user-attachments/assets/b1ebae59-4b84-47e6-9e19-c04c6e735e79)
