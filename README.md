@@ -13,15 +13,9 @@ For the complete project requirements, please refer to the “Task Description.p
 
 For instructions on how to run this application, scroll to the bottom of this page.
 
+Here are some GIFs of the application output from the Run window:
+
 ![Mail Delivery System Demo](https://github.com/jen2004/Mail-Delivery-System/raw/main/1.1.gif)
-
-Here are some images of the application output from the Run window:
-
-![1](https://github.com/user-attachments/assets/b1ebae59-4b84-47e6-9e19-c04c6e735e79)
-
-![2](https://github.com/user-attachments/assets/411ca479-2abd-4d57-8a59-b7455882287f)
-
-![3](https://github.com/user-attachments/assets/26311613-178d-48af-9a61-82202509c060)
 
 Instructions on how to run the program in PyCharm:
 1.	Open the GitHub project in PyCharm 2024.3
