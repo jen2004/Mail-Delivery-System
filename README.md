@@ -17,9 +17,9 @@ Here are some GIFs of the application output from the Run window:
 
 ![Mail Delivery System Demo](1.gif)
 
-<img src="2.gif" alt="Mail Delivery System Demo" width="1000" />
+<img src="2.gif" alt="Mail Delivery System Demo" width="1500" />
 
-<img src="3.gif" alt="Mail Delivery System Demo" width="1000" />
+<img src="3.gif" alt="Mail Delivery System Demo" width="1500" />
 
 Instructions on how to run the program in PyCharm:
 1.	Open the GitHub project in PyCharm 2024.3
