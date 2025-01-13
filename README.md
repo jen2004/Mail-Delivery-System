@@ -19,6 +19,8 @@ Here are some GIFs of the application output from the Run window:
 
 ![Mail Delivery System Demo](2.gif)
 
+![Mail Delivery System Demo](3.gif)
+
 Instructions on how to run the program in PyCharm:
 1.	Open the GitHub project in PyCharm 2024.3
 2.	Click the green arrow to run the file “Main.py”.
